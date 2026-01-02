@@ -41,6 +41,24 @@ console.log(37/32);
 
 
 
+console.log((3 + 4)* 5 % 3);
+
+
+console.log(true);
+console.log(+true);
+
+let num1 , num2 , num3 
+
+num1 = num2 = num3 = 3 + 8
+
+let gameCounter =120;
+gameCounter++;// First use the current value Then increase it by 1
+
+
+//++gameCounter  First increase the value Then use it
+console.log(gameCounter);
+
+
 
 
 
